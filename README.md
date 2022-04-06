@@ -1,11 +1,6 @@
 # G1
 Giudilli-Crivellari-Addesa-Dedekbayeva
 First modification as a owner
-<<<<<<< branch4
-
-
-
 Damira
-=======
 Another modification from Umberto
->>>>>>> main
+This is a merge that Umberto hope he make
